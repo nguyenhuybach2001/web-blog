@@ -1,0 +1,6 @@
+.ant-pagination-item-active {
+  border-color: black !important;
+  a {
+    color: black !important;
+  }
+}
